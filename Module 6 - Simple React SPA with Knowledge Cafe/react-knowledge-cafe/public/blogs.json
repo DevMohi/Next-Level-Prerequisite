@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+    "title": "Understanding AI in Modern Technology",
+    "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+    "author": "Hamza Sohail",
+    "posted": "2024-10-01",
+    "data": "Exploring the role of artificial intelligence in various industries and its potential future impact.",
+    "reading_time": 8,
+    "hashtags": ["AI", "Technology", "Innovation"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+    "title": "The Basics of Quantum Computing",
+    "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+    "author": "Jane Smith",
+    "posted": "2024-10-12",
+    "data": "An introduction to quantum computing and how it differs from classical computing.",
+    "reading_time": 10,
+    "hashtags": ["QuantumComputing", "Science", "FutureTech"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/RzGzcPg/3.png",
+    "title": "Healthy Eating in a Busy World",
+    "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+    "author": "Michael Brown",
+    "posted": "2024-09-25",
+    "data": "Tips and strategies for maintaining a healthy diet despite a hectic lifestyle.",
+    "reading_time": 5,
+    "hashtags": ["Health", "Wellness", "Nutrition"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+    "title": "Mastering the Art of Photography",
+    "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+    "author": "Sarah Wilson",
+    "posted": "2024-09-30",
+    "data": "A guide to improving your photography skills, from composition to lighting techniques.",
+    "reading_time": 12,
+    "hashtags": ["Photography", "Art", "Creativity"]
+  }
+]
