@@ -10,8 +10,8 @@ app.use(cors());
 app.use(express.json());
 
 // MongoDB URI with credentials
-const uri =
-  "mongodb+srv://dbUser:dbUserPass@cluster0.yhsiw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+// const uri ="mongodb+srv://dbUser:dbUserPass@cluster0.yhsiw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "mongodb://localhost:27017/";
 
 // Create a MongoClient with options
 const client = new MongoClient(uri, {
@@ -20,8 +20,8 @@ const client = new MongoClient(uri, {
     strict: true,
     deprecationErrors: true,
   },
-  tls: true, // Ensures TLS/SSL is used
-  tlsAllowInvalidCertificates: true, // For testing; remove in production
+  // tls: true, // Ensures TLS/SSL is used 
+  // tlsAllowInvalidCertificates: true, // For testing; remove in production 
 });
 
 async function run() {
